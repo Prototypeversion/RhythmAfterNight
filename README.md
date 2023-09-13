@@ -7,10 +7,10 @@ LICENSE.txt
 
 Read on https://rhythmafternight.wixsite.com/kickstarter the App's:
 
-  Terms of Service
+Terms of Service
 
-  Privacy Policy
+Privacy Policy
 
-  Disclaimer
+Disclaimer
 
-  End-User Licence Agreement
+End-User Licence Agreement
